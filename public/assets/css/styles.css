@@ -1,0 +1,43 @@
+.urn {
+  background-color: rgb(220,210,200);
+}
+
+.monitor {
+  background-color: rgb(200,200,200);
+  min-height: 431px;
+}
+
+.urn-form {
+  background-color: rgb(70, 62, 62);
+  overflow-x: hidden;
+}
+
+.numbers {
+  width: 70px;
+  height: 85px;
+  float: left;
+  border: 1px solid;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+.string-numbers {
+  font-size: 90px;
+  margin-top: -25px;
+  text-align: center;
+}
+
+.urn-button {
+  color: #fff;
+  width: 89px;
+  height: 50px;
+  background-color: rgb(13,37,57);
+  font-weight: bold;
+  font-size: 25px;
+  border: 2px #dedede solid;
+}
+
+.image {
+  width: 200px;
+}
+
